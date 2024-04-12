@@ -86,9 +86,14 @@ a:hover {
   float: right;
 }
 
+.bi {
+  color: #00629C;
+  font-size: 120%;
+}
+
 .glyphicon {
   color: #00629C;
-  font-size: 110%;
+  font-size: 120%;
 }
 
 .glyphicon:hover {
