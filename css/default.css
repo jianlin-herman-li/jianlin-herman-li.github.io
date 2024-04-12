@@ -1,0 +1,174 @@
+body {
+  padding-bottom: 20px;
+  font-family: 'Lato', 'Helvetica Neue', sans-serif;
+  color: #000000;
+  background: #FFFFFF;
+}
+
+@media (min-width: 965px) {
+  .container {
+    max-width: 1006px;
+  }
+}
+
+a {
+  color: #00629C;
+  /* color: #048444; */
+}
+
+a:hover {
+  color: #D02D23;
+  text-decoration: none;
+}
+
+.section-heading {
+  font-size: 120%;
+  font-family: "Merriweather Sans", 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.page-header,
+.page-body,
+.page-footer {
+  font-size: 15.0pt;
+}
+
+.row {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.page-header {
+  margin-bottom: 24px;
+  border-radius: 6px;
+  padding-top: 5px;
+  padding-bottom: 2px;
+  padding-right: 20px;
+  padding-left: 0px;
+  background: #F8DA6E;
+  border-style: none;
+}
+
+.affiliation {
+  font-size: 100%;
+}
+
+.affiliation > a {
+  color: inherit;
+}
+
+.affiliation > a:hover {
+  color: #D02D23;
+}
+
+.page-footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+#my-name-line {
+  margin-top:2mm;
+}
+
+#my-name {
+  font-family: 'Merriweather Sans', 'Helvetica Neue', sans-serif;
+  font-size: 180%;
+  font-weight: bold;
+  color: #00629C;
+}
+
+#profile-img {
+  width: 142px;
+  border: 1.8px solid #F0F0F8;
+  margin-top: 9px;
+  float: right;
+}
+
+.glyphicon {
+  color: #00629C;
+  font-size: 110%;
+}
+
+.glyphicon:hover {
+  color: #D02D23;
+}
+
+.tooltip-inner {
+  max-width: 500px !important;
+}
+
+#glyphicons {
+  margin-top: 12px;
+  padding-left: 23px;
+}
+
+#brand {
+  padding-left: 0px; /* 30px; */
+  padding-right: 0px;
+  font-size: 106%;
+}
+
+#research-opportunities {
+  font-size: 92%;
+}
+
+.author-list {
+  font-size: 95%;
+}
+
+.link-list {
+  margin-bottom: 0;
+}
+
+.paper-title {
+  color: #000000;
+  font-size: 108%;
+  font-weight: 400 
+}
+
+.paper-longtitle {
+  color: #000000;
+  font-size: 95%;
+  font-weight: 400 
+}
+
+.paper-subtitle {
+  color: #000000;
+  font-size: 85%;
+  font-weight: 400 
+}
+
+.venue-sticker {
+  font-family: "Lato", "Helvetica Neue", sans-serif;
+}
+
+.paper-award-sticker {
+  font-size: 90%;
+  font-family: "Lato", "Helvetica Neue", sans-serif;
+}
+
+.paper-blurb {
+  margin-top: 2mm;
+  margin-left: 1cm;
+  font-style: italic;
+  font-size: 90%;
+}
+
+.caveat {
+  margin-top: 2mm;
+  font-style: italic;
+  font-size: 90%;
+}
+
+.pub-entry {
+  border-radius: 6px;
+  margin-top: 1px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 15px;
+  padding-left: 15px;
+  background: #F0F0F8;
+}
