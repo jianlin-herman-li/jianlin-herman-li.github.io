@@ -177,4 +177,5 @@ a:hover {
   padding-right: 15px;
   padding-left: 15px;
   background: #F0F0F8;
+  overflow-x: auto;
 }
